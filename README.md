@@ -1,6 +1,3 @@
-# Hi there, I'm bobetbat! 👋
-
-<!-- Banner Image -->
 <p align="center">
   <img src="https://github.com/bobetbat/bobetbat/blob/master/assets/banner.svg?raw=true" alt="Banner" width="100%" />
 </p>
@@ -9,11 +6,11 @@ I'm a passionate **Web3 Developer** and **Ethereum Geek** building decentralized
 
 ## About Me
 
-- 🌱 learning more about **Smart Contract Security** and **Layer 2 Solutions**
-- 👯 looking to collaborate on **Open Source Web3 Projects**
-- 🤔 looking for help with **Scaling Ethereum dApps**
-- 💬 Ask me about **Ethereum Development**, **Solidity**, and **Blockchain Integration**
-- ⚡ Fun fact: I love exploring the intersections of blockchain and AI!
+- 🌱 **Aspiring Web3 Developer** focused on mastering **Smart Contract Security** and **Layer 2 Solutions**.
+- 👯 **Enthusiastic Collaborator** contributing to **Open Source Web3 Projects**, eager to learn and grow.
+- 🤝 **Seeking Guidance** on **Scaling Ethereum dApps** to build more efficient and reliable decentralized applications.
+- 💬 **Proficient** in **Ethereum Development**, **Solidity**, and **Blockchain Integration**, passionate about tackling complex challenges.
+- ⚡ **Passionate Explorer** of the intersections between **Blockchain and AI**, aiming to innovate and create impactful solutions.
 
 ## 🛠️ Technologies & Tools
 
