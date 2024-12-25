@@ -22,12 +22,12 @@
 
   <!-- Text: Your Name -->
   <text x="200" y="100" font-family="Arial, Helvetica, sans-serif" font-size="48" fill="url(#textGradient)" font-weight="bold">
-    Bobet
+    Bobetbat
   </text>
 
-  <!-- Text: Your Title -->
+  <!-- Text: Your Title (Escape the ampersand!) -->
   <text x="200" y="160" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#FFFFFF">
-    Web3 Developer & Ethereum Geek
+    Web3 Developer &amp; Ethereum Geek
   </text>
 
   <!-- Decorative Circles -->
