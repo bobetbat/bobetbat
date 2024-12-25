@@ -45,11 +45,7 @@
   </defs>
 
   <!-- ========== BACKGROUND ========== -->
-  <rect
-    width="1200"
-    height="300"
-    fill="url(#bgRadial)"
-  />
+  <rect width="1200" height="300" fill="url(#bgRadial)" />
 
   <!-- ========== DECORATIVE SWIRL ========== -->
   <path
@@ -69,23 +65,23 @@
   <circle cx="990" cy="180" r="50" fill="#E856FE" opacity="0.15" />
 
   <!-- ========== ETHEREUM ICON (3D-ISH) ========== -->
-  <g transform="translate(80,60)" filter="url(#dropshadow)">
+  <g transform="translate(80,50)" filter="url(#dropshadow)">
     <!-- Shadow Offset -->
     <polygon
       fill="#000"
       opacity="0.3"
-      points="50,0 0,75 50,150 100,75"
-      transform="translate(4,4)"
+      points="50,0 0,70 50,110 100,70 50,150"
+      transform="translate(3,3)"
     />
-    <!-- Top Half -->
+    <!-- Top Part -->
     <polygon
       fill="url(#ethTop)"
-      points="50,0 0,75 50,100 100,75"
+      points="50,0 0,70 50,110 100,70"
     />
-    <!-- Bottom Half -->
+    <!-- Bottom Part -->
     <polygon
       fill="url(#ethBottom)"
-      points="50,105 0,75 50,100 100,75"
+      points="50,110 0,70 50,150 100,70"
     />
   </g>
 
