@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bobetbat/bobetbat/blob/master/assets/banner.svg?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/bobetbat/bobetbat/blob/master/assets/banner2.svg?raw=true" alt="Banner" width="100%" />
 </p>
 
 I'm a passionate **Web3 Developer** and **Ethereum Geek** building decentralized applications and exploring the endless possibilities of blockchain technology.

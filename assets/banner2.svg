@@ -1,0 +1,88 @@
+<svg 
+  width="1200" 
+  height="300" 
+  viewBox="0 0 1200 300" 
+  xmlns="http://www.w3.org/2000/svg"
+  style="font-family: Arial, Helvetica, sans-serif;">
+
+  <!-- ========== DEFINITIONS ========== -->
+  <defs>
+    <!-- Background Radial Gradient -->
+    <radialGradient id="bgRadial" cx="50%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#2B2D42" />
+      <stop offset="100%" stop-color="#0B0C10" />
+    </radialGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F9D342"/>
+      <stop offset="100%" stop-color="#E856FE"/>
+    </linearGradient>
+
+    <!-- Glow Filter for the Swirl -->
+    <filter id="glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- ========== BACKGROUND ========== -->
+  <rect 
+    width="1200" 
+    height="300" 
+    fill="url(#bgRadial)" 
+  />
+
+  <!-- ========== ETHEREUM LOGO (Stylized) ========== -->
+  <g transform="translate(60, 60)">
+    <!-- Upper Polygon -->
+    <polygon 
+      points="40,0 80,69.3 0,69.3" 
+      fill="#627EEA" 
+    />
+    <!-- Middle Polygon -->
+    <polygon 
+      points="40,0 72,45 8,45" 
+      fill="#FFFFFF" 
+    />
+  </g>
+
+  <!-- ========== SWIRL DECORATION ========== -->
+  <path 
+    d="M 250 280 
+       C 400 120, 700 120, 850 280 
+       S 1150 480, 1250 250" 
+    stroke="#8C52FF" 
+    stroke-width="4" 
+    fill="none" 
+    filter="url(#glow)" 
+    opacity="0.5"
+  />
+
+  <!-- ========== DECORATIVE CIRCLES ========== -->
+  <circle cx="1050" cy="70" r="40" fill="#8C52FF" opacity="0.2" />
+  <circle cx="1080" cy="120" r="20" fill="#F9D342" opacity="0.3" />
+  <circle cx="990" cy="180" r="50" fill="#E856FE" opacity="0.15" />
+
+  <!-- ========== TEXT: NAME ========== -->
+  <text 
+    x="200" 
+    y="130" 
+    fill="url(#textGrad)" 
+    font-size="50" 
+    font-weight="bold">
+    Bobet
+  </text>
+
+  <!-- ========== TEXT: TITLE ========== -->
+  <text 
+    x="200" 
+    y="190" 
+    fill="#FFFFFF" 
+    font-size="24">
+    Web3 Developer &amp; Ethereum Geek
+  </text>
+</svg>
