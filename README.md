@@ -6,7 +6,7 @@ I'm a passionate **Web3 Developer** and **Ethereum Geek** building decentralized
 
 ## About Me
 
-- 🌱 **Aspiring Web3 Developer** focused on mastering **Smart Contract Security** and **Layer 2 Solutions**.
+- 🌱 **Aspiring Web3 Developer** focused on mastering **Smart Contracts technology** and **Layer 2 Solutions**.
 - 👯 **Enthusiastic Collaborator** contributing to **Open Source Web3 Projects**, eager to learn and grow.
 - 🤝 **Seeking Guidance** on **Scaling Ethereum dApps** to build more efficient and reliable decentralized applications.
 - 💬 **Proficient** in **Ethereum Development**, **Solidity**, and **Blockchain Integration**, passionate about tackling complex challenges.
